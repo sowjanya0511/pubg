@@ -1,3 +1,4 @@
+
 // Value of second is assigned to first
         first = second;
 
@@ -9,4 +10,4 @@
         System.out.println("Second number = " + second);
     }
 }
-editing from gitub
+editing from github
